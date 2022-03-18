@@ -1,0 +1,502 @@
+[
+  {
+    "Type": "Duplex",
+    "Cost": 329484,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 686993,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 266745,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 845841,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 759572,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Townhouse",
+    "Cost": 749768,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 188706,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 767553,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 105769,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 182428,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 260831,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 320933,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 103944,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Maisonette",
+    "Cost": 629705,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Penthouse",
+    "Cost": 425112,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 254572,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Townhouse",
+    "Cost": 228939,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 187678,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Townhouse",
+    "Cost": 832134,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 312275,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 327622,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 899710,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 868844,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 101269,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Penthouse",
+    "Cost": 598713,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 128524,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Townhouse",
+    "Cost": 513114,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Maisonette",
+    "Cost": 683978,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 541392,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 365561,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 106013,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Townhouse",
+    "Cost": 635195,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 792307,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 726718,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 193375,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 876197,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 308763,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 775015,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Maisonette",
+    "Cost": 693819,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Maisonette",
+    "Cost": 161869,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 339150,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 126609,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 221629,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Penthouse",
+    "Cost": 285352,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Penthouse",
+    "Cost": 216739,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Penthouse",
+    "Cost": 657080,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 448568,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 720301,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 465741,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 481960,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Penthouse",
+    "Cost": 790431,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Townhouse",
+    "Cost": 854908,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 254259,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Penthouse",
+    "Cost": 383877,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 878311,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 214288,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 232002,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Townhouse",
+    "Cost": 770465,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 891824,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Maisonette",
+    "Cost": 785551,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 179795,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 221238,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 816317,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 269220,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 632271,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Maisonette",
+    "Cost": 275736,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 307011,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 309321,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Penthouse",
+    "Cost": 673036,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Apartment",
+    "Cost": 885411,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 140711,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Townhouse",
+    "Cost": 891862,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Townhouse",
+    "Cost": 705463,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 404942,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Townhouse",
+    "Cost": 629263,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 211149,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 132684,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 324786,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 155978,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 136541,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Penthouse",
+    "Cost": 577684,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Maisonette",
+    "Cost": 114170,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 138261,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Maisonette",
+    "Cost": 619673,
+    "Location": "Valletta"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 112318,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Maisonette",
+    "Cost": 376864,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 387680,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Maisonette",
+    "Cost": 176600,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 842383,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Townhouse",
+    "Cost": 135795,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 582419,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 539767,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Duplex",
+    "Cost": 389975,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Maisonette",
+    "Cost": 549425,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 877264,
+    "Location": "Birgu"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 672053,
+    "Location": "Mellieha"
+  },
+  {
+    "Type": "Villa",
+    "Cost": 544601,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 440316,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Bungalow",
+    "Cost": 661149,
+    "Location": "Zabbar"
+  },
+  {
+    "Type": "Townhouse",
+    "Cost": 839757,
+    "Location": "Mellieha"
+  }
+]
